@@ -1,8 +1,8 @@
-# Sequoia Heights MS LLC
+# SequoiaIT LLC
 
 ## About Us
 
-Sequoia Heights MS LLC is a veteran-owned technology solutions provider based in Merced County, CA. We are committed to empowering local ag businesses and government agencies with state-of-the-art technology solutions that enhance operational efficiency and sustainability. Our mission is grounded in delivering excellence, fostering innovation, and ensuring the highest security and reliability standards.
+SequoiaIT LLC is a veteran-owned technology solutions provider based in Merced County, CA. We are committed to empowering local ag businesses and government agencies with state-of-the-art technology solutions that enhance operational efficiency and sustainability. Our mission is grounded in delivering excellence, fostering innovation, and ensuring the highest security and reliability standards.
 
 ## Our Services
 
@@ -18,7 +18,7 @@ As a veteran-owned business rooted in Merced County, we bring a blend of militar
 
 ## Getting Started
 
-To engage with Sequoia Heights MS LLC's technology:
+To engage with SequoiaIT LLC's technology:
 
 1. **Explore Repositories:** Browse our GitHub repositories for projects, documentation, and code demonstrating our commitment to agricultural and governmental IT solutions.
 2. **Clone or Fork:** Clone or fork repositories to adapt our projects to fit your unique needs.
@@ -26,13 +26,13 @@ To engage with Sequoia Heights MS LLC's technology:
 
 ## Connect With Us
 
-- **Website:** [Sequoia Heights MS LLC](https://sequoiaheightsms.com)
-- **Email:** [contact@sequoiaheightsms.com](mailto:contact@sequoiaheightsms.com)
-- **LinkedIn:** [View our LinkedIn Profile](https://www.linkedin.com/company/sequoiaheightsms)
+- **Website:** [Sequoia Heights MS LLC](https://www.getsequoiait.com)
+- **Email:** [pr@sequoiaheightsms.com](mailto:pr@getsequoiait.com)
+- **LinkedIn:** [View our LinkedIn Profile](https://www.linkedin.com/company/sequoiait)
 
 ## Support
 
-Need help with our projects or services? Please open an issue in the relevant GitHub repository or contact us directly at [support@sequoiaheightsms.com](mailto:support@sequoiaheightsms.com).
+Need help with our projects or services? Please open an issue in the relevant GitHub repository or contact us directly at [support@getsequoiait.com](mailto:support@getsequoiait.com).
 
 ## Contributing
 
@@ -40,5 +40,5 @@ Your contributions help us grow and improve! If you're interested in contributin
 
 ---
 
-© 2024 Sequoia Heights MS LLC. All rights reserved.
+© 2024 SequoiaIT LLC. All rights reserved.
 
